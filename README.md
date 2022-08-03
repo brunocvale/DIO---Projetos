@@ -1,4 +1,4 @@
-# DIO Projetos Pessoais - BRUNO CUNHA
+# DIO Projetos
 
 ### Desafios e atividades realizadas no meu percurso!
 
